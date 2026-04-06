@@ -22,6 +22,19 @@ The lab allows users to:
 
 ---
 
+## Demo Video
+
+Watch the XR Biology Lab in action:
+
+https://youtube.com/shorts/hLqXIe8XTCc?si=dADIT-BOIddpYLZy
+
+This demo shows:
+- VR navigation
+- Procedural biology models
+- Interaction tooltips
+
+---
+
 ## Features
 
 - WebXR VR navigation
@@ -65,6 +78,18 @@ This avoids:
 - Dependency conflicts
 - Build tooling overhead
 
+---
+## Challenges Encountered
+
+Some interesting challenges during development included:
+
+- Balancing lighting realism with performance in a procedural scene
+- Making tooltips readable inside VR space
+- Designing interaction targets large enough for XR selection
+- Structuring procedural models to remain recognizable
+- Keeping everything inside a single file without modular imports
+
+These challenges helped shape the final architecture decisions.
 ---
 
 ## The Prompt That Built This Project
@@ -123,6 +148,20 @@ This project explores:
 - Lightweight XR architecture
 - Procedural modeling strategies
 - Educational XR interaction design
+
+---
+
+## Key Lessons
+
+Some important observations from this experiment:
+
+- AI can dramatically reduce XR prototyping time
+- Procedural generation improves reliability for browser XR apps
+- Interaction design matters more than visual complexity
+- Lightweight XR experiences are possible without game engines
+- Prompt structure affects spatial design outcomes
+
+This project reinforced the idea that XR development may shift toward prompt-driven workflows.
 
 ---
 
