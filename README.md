@@ -152,15 +152,15 @@ This project explores a different question:
 
 ## Author
 
-Your Name
+Awodi Abdulmujeeb A.
 
 XR Developer | Android XR Explorer | AI Spatial Computing
 
 GitHub:
-(add link)
+https://github.com/Platinum04
 
 LinkedIn:
-(add link)
+https://www.linkedin.com/in/awodi/
 
 ---
 
