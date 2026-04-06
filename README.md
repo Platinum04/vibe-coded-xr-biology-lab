@@ -71,10 +71,8 @@ This avoids:
 
 This project was generated from the following structured XR prompt:
 
-(Build a complete 3D Virtual Reality Biology Lab using pure Three.js...)
-
-(Paste your full prompt here)
-
+The full prompt used for this project is available in [docs/prompt.md](docs/prompt.md).
+This prompt was designed to explore prompt-driven XR development using procedural generation, browser-native interaction, and educational spatial design.
 ---
 
 ## Screenshots
