@@ -104,23 +104,17 @@ This prompt was designed to explore prompt-driven XR development using procedura
 
 ### XR Lab Environment
 
-![XR Lab](screenshots/xr-lab-overview.png)
+![XR Lab] <img width="2559" height="1510" alt="Gemini_Generated_Image_jydtv1jydtv1jydt" src="https://github.com/user-attachments/assets/6038a4ac-e373-4f13-8e9b-8316e2a85666" />
+
 
 ### DNA Model Interaction
 
-![DNA](screenshots/dna-model.png)
+![DNA] <img width="2559" height="1421" alt="Gemini_Generated_Image_12m5or12m5or12m5" src="https://github.com/user-attachments/assets/fb716440-6ae9-4015-98e8-27d29c97c3d4" />
 
-### Organ Models
-
-![Heart](screenshots/heart-model.png)
 
 ### Tooltip System
 
-![Tooltip](screenshots/tooltip-ui.png)
-
-### Teleport Navigation
-
-![Teleport](screenshots/teleport-system.png)
+![Tooltip] <img width="2515" height="1430" alt="Gemini_Generated_Image_qop3lpqop3lpqop3" src="https://github.com/user-attachments/assets/1ff5c040-6dd8-484f-9964-fb690bb7fa88" />
 
 ---
 
